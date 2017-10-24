@@ -1,0 +1,4 @@
+{
+  // The path of the shell that the terminal uses on Windows. When using shells shipped with Windows (cmd, PowerShell or Bash on Ubuntu).
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe"
+}
