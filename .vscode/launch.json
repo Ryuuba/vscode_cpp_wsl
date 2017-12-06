@@ -5,10 +5,10 @@
         "name": "C++ WSL",
         "type": "cppdbg",
         "request": "launch",
-        "program": "/mnt/c/Users/Geo/Dropbox/Documents/Code/CppProject/hello",
+        "program": "/mnt/c/Users/ag/Dropbox/Documents/Code/CppProject/hello",
         "args": ["-fThreading"],
         "stopAtEntry": false,
-        "cwd": "/mnt/c/Users/Geo/Dropbox/Documents/Code/CppProject",
+        "cwd": "/mnt/c/Users/ag/Dropbox/Documents/Code/CppProject",
         "environment": [],
         "externalConsole": true,
         "windows": {
